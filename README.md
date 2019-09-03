@@ -7,7 +7,7 @@ This is a demo repository to teach how to send email in Django with minimal conf
 * [Pipenv](https://pypi.org/project/pipenv/)
 
 ## Running the application
-1. Clone the project to your machine ```[git clone https://github.com/Nicolas-2580/Django_email]```
+1. Clone the project to your machine ```[git clone https://github.com/developer7132/Django_email]```
 2. Navigate into the diretory ```[cd Django_email]```
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
